@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/appLogo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Tom and Yakir, 
@@ -39,7 +39,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	
 		teventov@gmail.com
 		<br>
-		<a href="mailto:teventov@gmail.com">Mail to Tom Eventov</a>
+		<a href="mailto:teventov@gmail.com">Mail to T_Y</a>
 	</span>
 </div>
 <hr>
