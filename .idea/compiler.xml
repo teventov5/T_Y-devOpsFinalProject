@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="roshambo" />
+        <module name="store-webapp-sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="roshambo" target="1.7" />
+      <module name="store-webapp-sample" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
